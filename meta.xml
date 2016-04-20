@@ -1,5 +1,5 @@
 <archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
-  <core encoding="utf-8" fieldsTerminatedBy="," linesTerminatedBy="\n" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+  <core encoding="utf-8" fieldsTerminatedBy=";" linesTerminatedBy="\n" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
     <files>
       <location>families.csv</location>
     </files>
