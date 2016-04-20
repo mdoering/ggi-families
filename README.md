@@ -1,2 +1,2 @@
 # ggi-families
-Ruggiero et al.'s FALO classification down to family from the Global Genome Initiative (GGI) 
+Ruggiero et al.'s FALO classification down to family from the [Global Genome Initiative (GGI)](http://ggi.eol.org/downloads) 

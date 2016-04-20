@@ -1,0 +1,73 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId=""  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+  <title>FALO classification</title>
+
+<creator>
+    <individualName>
+        <givenName>Markus</givenName>
+        <surName>Döring</surName>
+    </individualName>
+    <organizationName>GBIF</organizationName>
+    <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+</creator>
+
+<metadataProvider>
+    <individualName>
+        <givenName>Markus</givenName>
+        <surName>Döring</surName>
+    </individualName>
+    <organizationName>GBIF</organizationName>
+    <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+</metadataProvider>
+
+<associatedParty>
+    <individualName>
+        <givenName>Michael A.</givenName>
+        <surName>Ruggiero</surName>
+    </individualName>
+    <electronicMailAddress>ruggierm@si.edu</electronicMailAddress>
+    <role>EDITOR</role>
+</associatedParty>
+
+<pubDate>2015-08-13</pubDate>
+<language>en</language>
+<abstract>
+  <para>
+      The list of Families of Living Organisms (FALO) compiled by Ruggiero (2014) as an extension of a seven-kingdom classification of life in Ruggiero et al. (2015). 
+      The latter work is the result of an expert panel representing the major taxonomic disciplines convened to review, revise, and update the existing incomplete Catalogue of Life (CoL) hierarchy down to order.
+
+      The FALO classification is based on a consensus view among the authors, accommodating taxonomic choices and practical compromises among diverse opinions, usages and often conflicting evidence of the boundaries between ranks and some major taxa, including kingdoms.
+
+      FALO is unique because it aims to be comprehensive, with all known species of life on earth finding a home within its classification. Obviously, FALO is just &quot;a&quot; classification, certainly not &quot;THE&quot; classification of life. 
+      Because it heuristically combines strictly phylogenetic and relatively classical taxonomies, no doubt some of the implied relationships will require revision.
+  </para>
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://ggi.eol.org/help</url>
+    </online>
+  </distribution>
+
+</dataset>
+<additionalMetadata>
+  <metadata>
+   <gbif>
+    <dateStamp>2016-04-20</dateStamp>
+    <bibliography>
+        <citation identifier="http://doi.org/10.1371/journal.pone.0119248">
+            Michael A. Ruggiero , Dennis P. Gordon, Thomas M. Orrell, Nicolas Bailly, Thierry Bourgoin, Richard C. Brusca, Thomas Cavalier-Smith, Michael D. Guiry, Paul M. Kirk (2015). A Higher Level Classification of All Living Organisms.
+        </citation>
+        <citation identifier="">
+            Ruggiero, Michael A. (2014). Families of All Living Organisms, Version 2.0.a.15, (4/26/14). Expert Solutions International, LLC, Reston, VA. 420 pp.
+        </citation>
+    </bibliography>
+  </gbif>
+ </metadata>
+</additionalMetadata>
+    
+</eml:eml>
