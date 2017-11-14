@@ -3,13 +3,13 @@
     <files>
       <location>families.csv</location>
     </files>
-    <id index="15" />
-    <field index="1" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
-    <field index="5" term="http://rs.tdwg.org/dwc/terms/phylum"/>
-    <field index="10" term="http://rs.tdwg.org/dwc/terms/class"/>
-    <field index="14" term="http://rs.tdwg.org/dwc/terms/order"/>
-    <field index="15" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
-    <field index="16" term="http://rs.tdwg.org/dwc/terms/nameAccordingTo"/>
+    <id index="0" />
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/phylum"/>
+    <field index="11" term="http://rs.tdwg.org/dwc/terms/class"/>
+    <field index="15" term="http://rs.tdwg.org/dwc/terms/order"/>
+    <field index="16" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+    <field index="30" term="http://rs.tdwg.org/dwc/terms/nameAccordingTo"/>
     <field default="family" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
   </core>
 </archive>
